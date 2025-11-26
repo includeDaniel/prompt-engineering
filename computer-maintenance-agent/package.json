@@ -1,0 +1,11 @@
+{
+    "name": "computer-maintenance-agent",
+    "version": "1.0.0",
+    "description": "Agente de apoio à manutenção de computadores com diagnóstico e suporte inteligente",
+    "author": "Desenvolvimento",
+    "license": "MIT",
+    "scripts": {
+        "backend": "cd backend && python app.py",
+        "frontend": "cd frontend && python -m http.server 8000"
+    }
+}
